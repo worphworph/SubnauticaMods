@@ -1,0 +1,12 @@
+{
+  "Id": "FastCraft",
+  "DisplayName": "FastCraft",
+  "Author": "worphworph",
+  "Version": "1.0",
+  "Requires": [ ],
+  "Enable": true,
+  "AssemblyName": "FastCraft.dll",
+  "EntryMethod": "FastCraft.QPatch.Patch",
+  "Config": {},
+  "LoadAfter": ["OxygenTank"]
+}
