@@ -1,0 +1,6 @@
+C:\Users\Mariusz\source\repos\SlowerTime\QMods\SlowerTime\mod.json
+C:\Users\Mariusz\source\repos\SlowerTime\QMods\SlowerTime\SlowerTime.dll
+C:\Users\Mariusz\source\repos\SlowerTime\SlowerTime\obj\Debug\SlowerTime.csprojAssemblyReference.cache
+C:\Users\Mariusz\source\repos\SlowerTime\SlowerTime\obj\Debug\SlowerTime.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\SlowerTime\SlowerTime\obj\Debug\SlowerTime.dll
+C:\Users\Mariusz\source\repos\SlowerTime\SlowerTime\obj\Debug\SlowerTime.csproj.CopyComplete

@@ -1,0 +1,13 @@
+{
+  "Id": "SlowerTime",
+  "DisplayName": "SlowerTime",
+  "Author": "worphworph",
+  "Version": "1.0.0",
+  "Dependencies": [],
+  "LoadBefore": [],
+  "LoadAfter": [],
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "SlowerTime.dll",
+  "EntryMethod": "SlowerTime.QPatch.Patch"
+}
